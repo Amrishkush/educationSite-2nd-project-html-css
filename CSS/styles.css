@@ -1,0 +1,26 @@
+body {
+  background-color: #E3FDFD;
+
+}
+h1{
+  color: skyblue;
+}
+h3{
+  color: skyblue;
+}
+a{
+  color: Red;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+thead{
+  background-color: grey;
+}
+.rowcolor {
+  background-color: lightgrey;
+}
